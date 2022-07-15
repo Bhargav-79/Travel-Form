@@ -1,4 +1,4 @@
-# Travel-Form
+# Travel-Form Using CSS and PHP
 This is a simple IISC Bangalore College US Trip Travel Form.
 
 # Tech Stack:
